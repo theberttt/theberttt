@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Welcome to my GitHub Profile!
+
+- 🌱 I’m currently learning about TypeScript and Gatsby.
+- 📫 How to reach me: https://www.linkedin.com/in/albertong807/
+
 <!--
 **theberttt/theberttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
