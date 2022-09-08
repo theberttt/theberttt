@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile!
 
-- 🌱 I’m currently learning about TypeScript and Gatsby.
+- 🌱 I’m currently learning about Machine Learning, TypeScript and Gatsby.
 - 📫 How to reach me: https://www.linkedin.com/in/albertong807/
 
 <!--
